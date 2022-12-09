@@ -1,0 +1,6 @@
+framework module Pods_MyMemo {
+  umbrella header "Pods-MyMemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
